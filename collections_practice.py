@@ -141,8 +141,6 @@ def letter_count(word):
     for value, key in od.items():
         print(value, key)
 
-# OrderDict Example 3
-
 # deque Example 1
 def deque_example1():
     """
